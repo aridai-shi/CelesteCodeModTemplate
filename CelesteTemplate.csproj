@@ -37,15 +37,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Celeste">
-      <HintPath>..\..\Celeste.exe</HintPath>
+      <HintPath>lib-stripped\Celeste.exe</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="FNA">
-      <HintPath>..\..\FNA.dll</HintPath>
+      <HintPath>lib-stripped\FNA.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="MMHOOK_Celeste">
-      <HintPath>..\..\MMHOOK_Celeste.dll</HintPath>
+      <HintPath>lib-stripped\MMHOOK_Celeste.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="MonoMod.RuntimeDetour">
